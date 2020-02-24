@@ -1,5 +1,8 @@
 # dockermanifestv2reader
 
+Supports Docker registry:
+* `registry.redhat.io`
+* `quay.io`
 
 Compile CLI:
 
